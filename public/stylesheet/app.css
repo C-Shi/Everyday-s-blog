@@ -1,0 +1,23 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+.deleteForm {
+    display:inline;
+}
+
+.title {
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    color:black;
+}
+
+.blog {
+    margin: 1em;
+    text-align: justify;
+    text-indent: 2em;
+}
